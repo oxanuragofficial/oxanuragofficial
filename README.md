@@ -1,37 +1,18 @@
-<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
-<h3 align="center">Frontend Dveloper | Aspiring Fullstack Engineer</h3>
+# 💫 About Me:
+                                 Frontend Dveloper | Aspiring Fullstack Engineer<br><br><br>🔭 I’m currently working on Bharat Webstudio<br>🌱 I’m currently learning Python<br>👨‍💻 All of my projects are available at https://oxanuragofficial.github.io/anurag-kumar-portfolio/<br>💬 Ask me about HTML CSS JavaScript<br>📫 How to reach me hindvansianurag@gmail.com<br>⚡ Fun fact Enjoying Pogrammer's life
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxanuragofficial&label=Profile%20views&color=0e75b6&style=flat" alt="oxanuragofficial" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxanuragofficial" alt="oxanuragofficial" /></a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oxanuragofficial) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/official.oxanurag) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oxanuragofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oxanuragofficial) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Threater-x) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hindvansi) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hindvansi Anurag) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hindvansianurag@gmail.com) 
 
-- 🔭 I’m currently working on [Bharat Webstudio](https://oxanuragofficial.github.io/bharat-webstudio-official/)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=oxanuragofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=oxanuragofficial&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oxanuragofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Python**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=oxanuragofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👨‍💻 All of my projects are available at [https://oxanuragofficial.github.io/anurag-kumar-portfolio/](https://oxanuragofficial.github.io/anurag-kumar-portfolio/)
-
-- 💬 Ask me about **HTML CSS**
-
-- 📫 How to reach me **hindvansianurag@gmail.com**
-
-- ⚡ Fun fact **Enjoying Pogrammer's life**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oxanuragofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oxanuragofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/oxanuragofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oxanuragofficial" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/oxanura" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="oxanura" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hindvansianurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hindvansianurag" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/oxanuragofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="oxanuragofficial" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oxanuragofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oxanuragofficial" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxanuragofficial&show_icons=true&locale=en&layout=compact" alt="oxanuragofficial" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxanuragofficial&show_icons=true&locale=en" alt="oxanuragofficial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxanuragofficial&" alt="oxanuragofficial" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
