@@ -1,3 +1,4 @@
+<centre>
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 <h3 align="center">Frontend Dveloper | Aspiring Fullstack Engineer</h3>
 
@@ -33,3 +34,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxanuragofficial&" alt="oxanuragofficial" /></p>
+</centre>
