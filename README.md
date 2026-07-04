@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxanuragofficial&label=Profile%20views&color=0e75b6&style=flat" alt="oxanuragofficial" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxanuragofficial" alt="oxanuragofficial" /></a> </p>
+
 
 - 🔭 I’m currently working on [Bharat Webstudio](https://oxanuragofficial.github.io/bharat-webstudio-official/)
 
