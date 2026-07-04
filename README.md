@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxanuragofficial&label=Profile%20views&color=0e75b6&style=flat" alt="oxanuragofficial" /> </p>
 
-
+<p align="center">
 
 - 🔭 I’m currently working on [Bharat Webstudio](https://oxanuragofficial.github.io/bharat-webstudio-official/)
 
@@ -34,4 +34,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxanuragofficial&" alt="oxanuragofficial" /></p>
-</centre>
+</p>
