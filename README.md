@@ -24,15 +24,17 @@
 
 ## 👋 About Me
 
-I'm **Anurag Kumar**, a **Frontend Developer** and **Aspiring Full-Stack Engineer** passionate about building modern, responsive and user-friendly web experiences.
+I'm **Anurag Kumar**, a **Frontend Developer** focused on building clean, responsive, and user-centric web experiences. I'm currently expanding my skills toward **Full-Stack Development**, with a strong interest in modern web technologies and software engineering.
 
-I enjoy learning new technologies, solving programming problems and turning ideas into real-world projects.
+I enjoy transforming ideas into functional products, exploring new technologies, and continuously improving through hands-on projects and problem solving.
 
-* 🔭 Currently working on **[Bharat Webstudio](https://oxanuragofficial.github.io/bharat-webstudio-official/)**
-* 🌱 Currently learning **Python & Data Structures**
-* 💻 Interested in **Web Development & Software Engineering**
-* 🎯 Goal: Become a **strong Full-Stack Engineer**
-* ⚡ Mindset: **Learn → Build → Improve**
+* 🚀 Building and exploring **real-world web projects**
+* 🏢 Working on **Bharat Webstudio**
+* 🌱 Currently expanding my skills in **Python, DSA & Full-Stack Development**
+* 💡 Interested in **Web Development, Software Engineering & Product Building**
+* 🎯 Focused on becoming a **well-rounded Full-Stack Engineer**
+
+> **Build with purpose. Learn continuously. Keep improving.**
 
 ---
 
