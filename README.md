@@ -10,12 +10,12 @@
 
 <br/><br/>
 
-<a href="[https://oxanuragofficial.github.io/anurag-kumar-portfolio/](https://anurag-portfolio-webdev.netlify.app/)">
-<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00BFFF?style=for-the-badge&labelColor=050505"/>
+<a href="https://anurag-portfolio-webdev.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00BFFF?style=for-the-badge&labelColor=050505" alt="My Portfolio"/>
 </a>
 
 <a href="mailto:hindvansianurag@gmail.com">
-<img src="https://img.shields.io/badge/📧%20CONTACT%20ME-00BFFF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/📧%20CONTACT%20ME-00BFFF?style=for-the-badge&labelColor=050505" alt="Contact Me"/>
 </a>
 
 </div>
@@ -58,12 +58,12 @@ I enjoy learning new technologies, solving programming problems and turning idea
 
 A web development initiative focused on creating modern websites and digital experiences for businesses.
 
-<a href="https://oxanuragofficial.github.io/bharat-webstudio-official/">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&labelColor=050505"/>
+<a href="https://oxanuragofficial.github.io/bharat-webstudio-official/" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&labelColor=050505" alt="View Bharat Webstudio"/>
 </a>
 
-<a href="https://oxanuragofficial.github.io/anurag-kumar-portfolio/">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00BFFF?style=for-the-badge&labelColor=050505"/>
+<a href="https://anurag-portfolio-webdev.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-00BFFF?style=for-the-badge&labelColor=050505" alt="View Portfolio"/>
 </a>
 
 ---
@@ -72,9 +72,9 @@ A web development initiative focused on creating modern websites and digital exp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=oxanuragofficial&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=00000000" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oxanuragofficial&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=00000000" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxanuragofficial&layout=compact&hide_border=true&theme=transparent&title_color=00BFFF&text_color=FFFFFF&bg_color=00000000" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxanuragofficial&layout=compact&hide_border=true&theme=transparent&title_color=00BFFF&text_color=FFFFFF&bg_color=00000000" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -94,20 +94,20 @@ A web development initiative focused on creating modern websites and digital exp
 
 <div align="center">
 
-<a href="https://leetcode.com/oxanuragofficial">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00BFFF"/>
+<a href="https://leetcode.com/oxanuragofficial" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00BFFF" alt="LeetCode"/>
 </a>
 
-<a href="https://www.codechef.com/users/oxanura">
-<img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=00BFFF"/>
+<a href="https://www.codechef.com/users/oxanura" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=00BFFF" alt="CodeChef"/>
 </a>
 
-<a href="https://codeforces.com/profile/oxanuragofficial">
-<img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00BFFF"/>
+<a href="https://codeforces.com/profile/oxanuragofficial" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00BFFF" alt="Codeforces"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/hindvansianurag">
-<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00BFFF"/>
+<a href="https://www.hackerrank.com/profile/hindvansianurag" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00BFFF" alt="HackerRank"/>
 </a>
 
 </div>
@@ -118,16 +118,16 @@ A web development initiative focused on creating modern websites and digital exp
 
 <div align="center">
 
-<a href="https://linkedin.com/in/oxanuragofficial">
-<img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505"/>
+<a href="https://linkedin.com/in/oxanuragofficial" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn"/>
 </a>
 
-<a href="https://instagram.com/oxanuragofficial">
-<img src="https://img.shields.io/badge/Instagram-00BFFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050505"/>
+<a href="https://instagram.com/oxanuragofficial" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-00BFFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050505" alt="Instagram"/>
 </a>
 
 <a href="mailto:hindvansianurag@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505"/>
+<img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Gmail"/>
 </a>
 
 </div>
