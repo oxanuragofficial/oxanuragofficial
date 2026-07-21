@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://oxanuragofficial.github.io/anurag-kumar-portfolio/">
+<a href="[https://oxanuragofficial.github.io/anurag-kumar-portfolio/](https://anurag-portfolio-webdev.netlify.app/)">
 <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00BFFF?style=for-the-badge&labelColor=050505"/>
 </a>
 
