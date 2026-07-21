@@ -28,11 +28,11 @@ I'm **Anurag Kumar**, a **Frontend Developer** focused on building clean, respon
 
 I enjoy transforming ideas into functional products, exploring new technologies, and continuously improving through hands-on projects and problem solving.
 
-* 🚀 Building and exploring **real-world web projects**
-* 🏢 Working on **Bharat Webstudio**
-* 🌱 Currently expanding my skills in **Python, DSA & Full-Stack Development**
-* 💡 Interested in **Web Development, Software Engineering & Product Building**
-* 🎯 Focused on becoming a **well-rounded Full-Stack Engineer**
+- 🚀 Building and exploring **real-world web projects**
+- 🏢 Working on **Bharat Webstudio**
+- 🌱 Currently expanding my skills in **Python, DSA & Full-Stack Development**
+- 💡 Interested in **Web Development, Software Engineering & Product Building**
+- 🎯 Focused on becoming a **well-rounded Full-Stack Engineer**
 
 > **Build with purpose. Learn continuously. Keep improving.**
 
@@ -42,13 +42,13 @@ I enjoy transforming ideas into functional products, exploring new technologies,
 
 ### Languages & Web
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
 </p>
 
 ### Tools & Platforms
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
@@ -70,19 +70,7 @@ A web development initiative focused on creating modern websites and digital exp
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oxanuragofficial&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=00000000" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxanuragofficial&layout=compact&hide_border=true&theme=transparent&title_color=00BFFF&text_color=FFFFFF&bg_color=00000000" height="180" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
