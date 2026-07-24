@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Real+Projects" alt="Typing Animation"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=oxanuragofficial&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
 
@@ -18,21 +18,29 @@
 <img src="https://img.shields.io/badge/📧%20CONTACT%20ME-00BFFF?style=for-the-badge&labelColor=050505" alt="Contact Me"/>
 </a>
 
-</div>
+<br/><br/>
 
 ---
 
 ## 👋 About Me
 
-I'm **Anurag Kumar**, a **Frontend Developer** focused on building clean, responsive, and user-centric web experiences. I'm currently expanding my skills toward **Full-Stack Development**, with a strong interest in modern web technologies and software engineering.
+I'm **Anurag Kumar**, a **Frontend Developer** focused on building clean, responsive, and user-centric web experiences.
+
+I'm currently expanding my skills toward **Full-Stack Development**, with a strong interest in modern web technologies and software engineering.
 
 I enjoy transforming ideas into functional products, exploring new technologies, and continuously improving through hands-on projects and problem solving.
 
-* 🚀 Building and exploring **real-world web projects**
-* 🏢 Working on **Bharat Webstudio**
-* 🌱 Currently expanding my skills in **Python, DSA & Full-Stack Development**
-* 💡 Interested in **Web Development, Software Engineering & Product Building**
-* 🎯 Focused on becoming a **well-rounded Full-Stack Engineer**
+🚀 Building and exploring **real-world web projects**
+
+🏢 Working on **Bharat Webstudio**
+
+🌱 Currently expanding my skills in **Python, DSA & Full-Stack Development**
+
+💡 Interested in **Web Development, Software Engineering & Product Building**
+
+🎯 Focused on becoming a **well-rounded Full-Stack Engineer**
+
+<br/>
 
 > **Build with purpose. Learn continuously. Keep improving.**
 
@@ -42,15 +50,13 @@ I enjoy transforming ideas into functional products, exploring new technologies,
 
 ### Languages & Web
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
-</p>
+
+<br/><br/>
 
 ### Tools & Platforms
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
 
 ---
 
@@ -59,6 +65,8 @@ I enjoy transforming ideas into functional products, exploring new technologies,
 ### 🏢 Bharat Webstudio
 
 A web development initiative focused on creating modern websites and digital experiences for businesses.
+
+<br/>
 
 <a href="https://oxanuragofficial.github.io/bharat-webstudio-official/" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&labelColor=050505" alt="View Bharat Webstudio"/>
@@ -72,17 +80,11 @@ A web development initiative focused on creating modern websites and digital exp
 
 ## 🔥 GitHub Contribution Streak
 
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxanuragofficial&background=000000&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=FFFFFF" alt="GitHub Contribution Streak"/>
-
-</div>
 
 ---
 
 ## 🏆 Coding Profiles
-
-<div align="center">
 
 <a href="https://leetcode.com/oxanuragofficial" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00BFFF" alt="LeetCode"/>
@@ -100,13 +102,9 @@ A web development initiative focused on creating modern websites and digital exp
 <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00BFFF" alt="HackerRank"/>
 </a>
 
-</div>
-
 ---
 
 ## 🐍 Contribution Snake Game
-
-<div align="center">
 
 ### 🎮 Watch The Snake Eat My Contributions!
 
@@ -116,15 +114,9 @@ A web development initiative focused on creating modern websites and digital exp
 
 > 🟢 The more I code, the longer the snake grows! 🚀
 
-</div>
-
----
-
 ---
 
 ## 🤝 Let's Connect
-
-<div align="center">
 
 <a href="https://linkedin.com/in/oxanuragofficial" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn"/>
@@ -138,11 +130,7 @@ A web development initiative focused on creating modern websites and digital exp
 <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Gmail"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ### 💙 Learn. Build. Improve. 🚀
 
