@@ -46,17 +46,14 @@ I enjoy transforming ideas into functional products, exploring new technologies,
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+Languages & Web
 
-### Languages & Web
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" /> </p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
+Tools & Platforms
 
-<br/><br/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" /> </p>
 
 ---
 
