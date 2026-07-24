@@ -104,44 +104,21 @@ A web development initiative focused on creating modern websites and digital exp
 
 ---
 
-## 🎮 Mini Game — Guess The Number
+## 🐍 Contribution Snake Game
 
 <div align="center">
 
-### 🕹️ Can You Crack The Code?
+### 🎮 Watch The Snake Eat My Contributions!
 
-</div>
-
-```text
-╔══════════════════════════════════════════════════╗
-║              🔐 ANURAG'S CODE GAME               ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  A secret number is hidden between 1 and 10.    ║
-║                                                  ║
-║  🎯 Your Mission: Guess the secret number.      ║
-║                                                  ║
-║  💡 Hint: It's a developer's favorite number.   ║
-║                                                  ║
-║  ┌────────────────────────────────────────────┐  ║
-║  │  Enter your guess:  [ ? ]                  │  ║
-║  └────────────────────────────────────────────┘  ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
-<details>
-<summary>🔓 Click to reveal the answer</summary>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 <br/>
 
-🎉 **The answer is 7!**
+> 🟢 The more I code, the longer the snake grows! 🚀
 
-You cracked the code! 🚀
+</div>
 
-> But remember, in programming, the real challenge is not finding the answer — it's understanding **how you got there**.
-
-</details>
+---
 
 ---
 
