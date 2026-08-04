@@ -22,7 +22,7 @@
 
 **Frontend Developer** focused on building clean, responsive, and user-friendly web experiences.
 
-🌱 Learning **Full-Stack Development, Python & DSA**
+🌱 Learning **Full-Stack Development, Java & DSA**
 
 🏢 Building **Bharat Webstudio**
 
