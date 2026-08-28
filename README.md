@@ -1,14 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001A33,100:00BFFF&height=170&section=header&text=ANURAG%20KUMAR&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Engineer&descSize=16&descAlignY=60&descColor=00BFFF" width="100%"/>
+<!-- ==================== HERO HEADER ==================== -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:061B2E,70:003B5C,100:00BFFF&height=220&section=header&text=ANURAG%20KUMAR&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=FRONTEND%20DEVELOPER%20%7C%20ASPIRING%20FULL-STACK%20ENGINEER&descSize=17&descAlignY=58&descColor=67E8F9"
+  width="100%"
+  alt="Anurag Kumar - Frontend Developer"
+/>
+
+<!-- Tech identity -->
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=BUILDING+FOR+THE+WEB+%7C+LEARNING+EVERY+DAY;FULL-STACK+DEVELOPMENT+%7C+JAVA+%7C+DSA;TURNING+IDEAS+INTO+REAL+PROJECTS"
+  alt="Typing animation"
+/>
+
+<br/>
+
+<!-- Primary Actions -->
 
 <a href="https://anurag-portfolio-webdev.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00BFFF?style=for-the-badge&labelColor=050505" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00BFFF?style=for-the-badge&labelColor=020617" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:hindvansianurag@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20CONTACT-00BFFF?style=for-the-badge&labelColor=020617" alt="Contact"/>
 </a>
 
-<a href="mailto:hindvansianurag@gmail.com">
-<img src="https://img.shields.io/badge/📧%20CONTACT-00BFFF?style=for-the-badge&labelColor=050505" alt="Contact"/>
-</a>
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=oxanuragofficial&style=flat-square&color=00BFFF&label=PROFILE+VIEWS"
+  alt="Profile views"
+/>
 
 </div>
 
@@ -51,6 +75,8 @@
 ### 🏢 Bharat Webstudio
 
 Modern websites and digital experiences for businesses.
+
+<br/>
 
 <a href="https://oxanuragofficial.github.io/bharat-webstudio-official/" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&labelColor=050505" alt="View Project"/>
@@ -128,6 +154,14 @@ Modern websites and digital experiences for businesses.
 
 ### 💙 Learn. Build. Improve. 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:001A33,100:050505&height=120&section=footer" width="100%"/>
+<br/>
+
+<!-- ==================== FOOTER ==================== -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,35:006B8F,70:061B2E,100:020617&height=170&section=footer&animation=fadeIn"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
