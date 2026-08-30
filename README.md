@@ -52,7 +52,7 @@
 
 Modern websites and digital experiences for businesses.
 
-<a href="https://oxanuragofficial.github.io/bharat-webstudio-official/" target="_blank">
+<a href="https://bharat-webstudio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&labelColor=050505" alt="View Project"/>
 </a>
 
