@@ -114,7 +114,7 @@ Modern websites and digital experiences for businesses.
 
 ## 🤝 Let's Connect
 
-<a href="https://linkedin.com/in/oxanuragofficial" target="_blank">
+<a href="https://linkedin.com/in/arkofficial" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn"/>
 </a>
 
