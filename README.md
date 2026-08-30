@@ -118,7 +118,7 @@ Modern websites and digital experiences for businesses.
 <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn"/>
 </a>
 
-<a href="https://instagram.com/oxanuragofficial" target="_blank">
+<a href="https://www.instagram.com/oxanurag_official" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-00BFFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050505" alt="Instagram"/>
 </a>
 
