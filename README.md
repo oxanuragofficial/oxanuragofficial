@@ -19,13 +19,9 @@
 ## 👋 About Me
 
 **Frontend Developer** focused on building clean, responsive, and user-friendly web experiences.
-
 🌱 Learning **Full-Stack Development, Java & DSA**
-
 🏢 Building **Bharat Webstudio**
-
 💡 Interested in **Web Development & Software Engineering**
-
 🎯 Goal: Become a **Full-Stack Engineer**
 
 > **Build with purpose. Learn continuously. Keep improving.**
