@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- ============================== HERO ============================== -->
-
-<img src="./assets/developer-header.png" width="100%" alt="ANURAG KUMAR"/>
-
-<br><br>
 
 <a href="https://my-portfolio-gamma-roan-37.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-050505?style=for-the-badge&logoColor=00BFFF&labelColor=050505" alt="Portfolio"/>
