@@ -60,7 +60,7 @@ I believe in learning through **building real projects, debugging real problems,
 
 ### 📊 GitHub
 
-```text
+
 PUBLIC REPOSITORIES
 44+
 
