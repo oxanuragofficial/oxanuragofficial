@@ -1,11 +1,5 @@
 <div align="center">
 
-
-<a href="https://my-portfolio-gamma-roan-37.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-050505?style=for-the-badge&logoColor=00BFFF&labelColor=050505" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001A33,100:00BFFF&height=170&section=header&text=ANURAG%20KUMAR&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Engineer&descSize=16&descAlignY=60&descColor=00BFFF" width="100%"/>
 
 <a href="https://my-portfolio-gamma-roan-37.vercel.app/">
