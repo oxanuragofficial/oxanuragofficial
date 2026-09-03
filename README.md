@@ -55,11 +55,22 @@ I enjoy turning ideas into real-world projects, improving my problem-solving ski
 
 <br/>
 
-| | |
-|---|---|
-| 🎓 **B.Tech CSE Student** | 🚀 **Open Source Contributor** |
-| 💻 **Web Developer** | ⚡ **Always Learning** |
-| 🧩 **DSA & Problem Solving** | 💡 **Building Real-World Projects** |
+<table>
+<tr>
+<td>🎓 <b>B.Tech CSE Student</b></td>
+<td>🚀 <b>Open Source Contributor</b></td>
+</tr>
+
+<tr>
+<td>💻 <b>Web Developer</b></td>
+<td>⚡ <b>Always Learning</b></td>
+</tr>
+
+<tr>
+<td>🧩 <b>DSA & Problem Solving</b></td>
+<td>💡 <b>Building Real-World Projects</b></td>
+</tr>
+</table>
 
 </td>
 
@@ -67,12 +78,43 @@ I enjoy turning ideas into real-world projects, improving my problem-solving ski
 
 ### 📊 GitHub Overview
 
-| Metric | Status |
-|---|---|
-| 📦 **Public Repositories** | ![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/oxanuragofficial&query=%24.public_repos&label=&color=00BFFF&style=flat-square) |
-| 👥 **Followers** | ![Followers](https://img.shields.io/github/followers/oxanuragofficial?label=&style=flat-square&color=00BFFF) |
-| 👤 **Profile** | [GitHub](https://github.com/oxanuragofficial) |
-| 📂 **Projects** | [View Repositories](https://github.com/oxanuragofficial?tab=repositories) |
+<table>
+<tr>
+<td><b>📦 Public Repositories</b></td>
+<td>
+<a href="https://github.com/oxanuragofficial?tab=repositories">
+<img
+src="https://img.shields.io/badge/VIEW_REPOSITORIES-00BFFF?style=for-the-badge&labelColor=050505"
+alt="View Repositories"
+/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td><b>👥 Followers</b></td>
+<td>
+<a href="https://github.com/oxanuragofficial">
+<img
+src="https://img.shields.io/github/followers/oxanuragofficial?style=for-the-badge&label=FOLLOWERS&color=00BFFF&labelColor=050505"
+alt="GitHub Followers"
+/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<a href="https://github.com/oxanuragofficial">
+<img
+src="https://img.shields.io/badge/OPEN_GITHUB_PROFILE-00BFFF?style=for-the-badge&labelColor=050505"
+alt="Open GitHub Profile"
+/>
+</a>
+</td>
+</tr>
+
+</table>
 
 </td>
 
@@ -103,7 +145,7 @@ I enjoy turning ideas into real-world projects, improving my problem-solving ski
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🏢 Bharat Webstudio
 
@@ -120,7 +162,7 @@ Modern websites and digital experiences built for businesses.
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 💼 My Portfolio
 
@@ -137,7 +179,7 @@ Personal developer portfolio showcasing projects, skills and development work.
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🗂️ Project Archive
 
@@ -174,12 +216,18 @@ Collection of frontend projects, UI experiments, animations and website clones.
 
 ---
 
-## 🔥 GitHub Streak &nbsp;&nbsp; 📊 GitHub Stats
+# 📊 GitHub Activity
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
+
+### 🔥 Contribution Streak
+
+<br/>
 
 <img
   src="https://github-readme-streak-stats-eight.vercel.app/?user=oxanuragofficial&theme=dark&background=050505&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=888888&hide_border=false"
@@ -189,7 +237,11 @@ Collection of frontend projects, UI experiments, animations and website clones.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
+
+### 📈 GitHub Statistics
+
+<br/>
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=oxanuragofficial&show_icons=true&theme=dark&bg_color=050505&border_color=00BFFF&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&hide_border=false"
@@ -201,6 +253,8 @@ Collection of frontend projects, UI experiments, animations and website clones.
 
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -248,7 +302,25 @@ Collection of frontend projects, UI experiments, animations and website clones.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/oxanuragofficial/oxanuragofficial/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/oxanuragofficial/oxanuragofficial/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/oxanuragofficial/oxanuragofficial/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
+
+</picture>
 
 <br/>
 
@@ -264,9 +336,51 @@ Collection of frontend projects, UI experiments, animations and website clones.
 
 <div align="center">
 
-| 🧠 Learn | 🔨 Build | 🧪 Experiment | 🚀 Improve |
-|---|---|---|---|
-| Learn new technologies | Turn ideas into projects | Try new approaches | Keep improving |
+<table width="100%">
+<tr>
+
+<td width="25%" align="center">
+
+### 🧠
+
+**LEARN**
+
+Learn new technologies and concepts.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔨
+
+**BUILD**
+
+Turn ideas into real projects.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧪
+
+**EXPERIMENT**
+
+Try different approaches.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🚀
+
+**IMPROVE**
+
+Keep improving every day.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
