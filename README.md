@@ -54,22 +54,28 @@ Modern websites and digital experiences for businesses.
 <table>
 <tr>
 
-<td align="center" width="50%">
+
+<div align="center">
+
+## 🔥 GitHub Activity
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=oxanuragofficial&theme=dark&background=000000&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=FFFFFF&hide_border=false" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=oxanuragofficial&theme=dark&background=050505&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=false" alt="GitHub Contribution Streak"/>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=oxanuragofficial&show_icons=true&theme=dark&bg_color=000000&border_color=00BFFF&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oxanuragofficial&theme=github_dark" alt="GitHub Stats"/>
 
 </td>
-
 </tr>
 </table>
 
