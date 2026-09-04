@@ -47,6 +47,8 @@ Modern websites and digital experiences for businesses.
 
 ---
 
+---
+
 <div align="center">
 
 ## 🔥 GitHub Activity
@@ -58,7 +60,7 @@ Modern websites and digital experiences for businesses.
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=oxanuragofficial&theme=dark&background=050505&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=false" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=oxanuragofficial&theme=dark&background=050505&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=false&border_radius=8" alt="GitHub Contribution Streak"/>
 
 </td>
 
@@ -66,7 +68,7 @@ Modern websites and digital experiences for businesses.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oxanuragofficial&theme=github_dark" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oxanuragofficial&show_icons=true&include_all_commits=true&count_private=false&rank=true&rank_icon=default&custom_title=Developer%20Stats&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&border_color=00BFFF&bg_color=050505&hide_border=false&border_radius=8&line_height=25&number_format=long&text_bold=true" alt="GitHub Stats"/>
 
 </td>
 
