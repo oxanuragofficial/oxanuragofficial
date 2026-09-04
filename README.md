@@ -49,18 +49,11 @@ Modern websites and digital experiences for businesses.
 
 <div align="center">
 
-## 🔥 GitHub Contribution Streak
-
-<table>
-<tr>
-
-
-<div align="center">
-
 ## 🔥 GitHub Activity
 
 <table>
 <tr>
+
 <td width="50%" align="center">
 
 ### 🔥 Contribution Streak
@@ -76,6 +69,7 @@ Modern websites and digital experiences for businesses.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oxanuragofficial&theme=github_dark" alt="GitHub Stats"/>
 
 </td>
+
 </tr>
 </table>
 
