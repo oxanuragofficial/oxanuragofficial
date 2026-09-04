@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001A33,100:00BFFF&height=170&section=header&text=ANURAG%20KUMAR&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Engineer&descSize=16&descAlignY=60&descColor=00BFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001A33,100:00BFFF&height=170&section=header&text=ANURAG%20KUMAR&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <a href="https://my-portfolio-gamma-roan-37.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00BFFF?style=for-the-badge&labelColor=050505" alt="Portfolio"/>
@@ -51,7 +51,27 @@ Modern websites and digital experiences for businesses.
 
 ## 🔥 GitHub Contribution Streak
 
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🔥 Contribution Streak
+
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=oxanuragofficial&theme=dark&background=000000&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=FFFFFF&hide_border=false" alt="GitHub Contribution Streak"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=oxanuragofficial&show_icons=true&theme=dark&bg_color=000000&border_color=00BFFF&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" alt="GitHub Stats"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
