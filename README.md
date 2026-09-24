@@ -36,11 +36,11 @@
 Modern websites and digital experiences for businesses.
 
 <a href="https://bharat-webstudio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&labelColor=050505" alt="View Project"/>
+<img src="https://img.shields.io/badge/VIEW%20DETAILS-00BFFF?style=for-the-badge&labelColor=050505" alt="View Project"/>
 </a>
 
-<a href="https://my-portfolio-gamma-roan-37.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/MY%20PORTFOLIO-00BFFF?style=for-the-badge&labelColor=050505" alt="My Portfolio"/>
+<a href="https://project-archive-ruddy.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/MY%20PORJECTS-00BFFF?style=for-the-badge&labelColor=050505" alt="My Portfolio"/>
 </a>
 
 </div>
