@@ -14,16 +14,17 @@
 <img src="https://img.shields.io/badge/📧%20CONTACT-00BFFF?style=for-the-badge&labelColor=050505" alt="Contact"/>
 </a>
 
-### Software Development | Problem Solving | Emerging Technologies
 
-B.Tech CSE student focused on building practical software solutions, strengthening problem-solving skills, and exploring modern technologies.
 
 </div>
 
 ---
 
 <div align="center">
+### Software Development | Problem Solving | Emerging Technologies
 
+B.Tech CSE student focused on building practical software solutions, strengthening problem-solving skills, and exploring modern technologies.
+</div>
 
 <div align="center">
 
