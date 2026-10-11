@@ -1,7 +1,6 @@
  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001A33,100:00BFFF&height=170&section=header&text=ANURAG%20KUMAR&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Anurag Kumar Header"/>
-
 ### Software Development | Problem Solving | Emerging Technologies
 
 B.Tech CSE student focused on building practical software solutions, strengthening problem-solving skills, and exploring modern technologies.
